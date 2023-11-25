@@ -1,0 +1,5 @@
+outs:
+- md5: 34b5ebb410a7cb7ee61ace2d574dd1ad
+  size: 38518
+  hash: md5
+  path: data_limpia_v2.csv
